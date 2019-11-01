@@ -397,3 +397,5 @@ Function Test-PCConnection {
         }
     }
 } #End Function
+
+# Export-ModuleMember -Function Get-MachineInfo
